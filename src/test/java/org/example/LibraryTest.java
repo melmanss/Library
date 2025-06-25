@@ -1,4 +1,4 @@
-package org.example; // Змінено з com.myapp на org.example
+package org.example;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
